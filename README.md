@@ -10,7 +10,7 @@ it also has a group of built-in commands that are implemented in C.
 To run the minishell project, you will need:
 
 - C Compiler (e.g., gcc)
-- POSIX Threads (pthreads) library
+- ReadLine library
 - tool make
 
 ## Installation
